@@ -1,3 +1,3 @@
 # best-repo-ever
 
-Setting up the repositories readme file.
+Setting up the repositories merge conflict
